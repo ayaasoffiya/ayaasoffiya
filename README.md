@@ -1,16 +1,20 @@
-## Hi there 👋
+# Profile
 
-<!--
-**ayaasoffiya/ayaasoffiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a computer science student passionate about learning and exploring various aspects of technology and programming. I have a strong interest in artificial intelligence, software development, and system design, and I enjoy creating innovative solutions to real-world problems.
 
-Here are some ideas to get you started:
+## Goals
+- Gain expertise in cutting-edge technologies.
+- Contribute to open-source communities.
+- Build a meaningful career in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies and Interests
+- Coding and developing personal projects.
+- Exploring emerging tech trends.
+- Learning new programming languages and frameworks.
+
+
+
+
+
+
